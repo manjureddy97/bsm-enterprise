@@ -1,3 +1,3 @@
 User-agent: *
 Allow: /
-Sitemap: https://bsmenterprise.in/sitemap.xml
+Sitemap: https://manjureddy97.github.io/bsm-enterprise/sitemap.xml

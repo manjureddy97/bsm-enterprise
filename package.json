@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "private": true,
   "description": "BSM Enterprise LLP company website (React + Vite), deployed on GitHub Pages",
-  "homepage": "https://bsmenterprise.in",
+  "homepage": "https://manjureddy97.github.io/bsm-enterprise",
   "type": "module",
   "engines": { "node": ">=18" },
   "scripts": {
